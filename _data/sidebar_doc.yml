@@ -1,0 +1,214 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+# Sidebar
+entries:
+- title: Sidebar
+  subcategories:
+    - title: Frontmatter # leave this frontmatter section here for PDF outputs
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      web: false
+      items:
+        - title: Title Page
+          url: /titlepage.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+          web: false
+          frontmatter: true
+
+        - title: Table of Contents
+          url: /tocpage.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+          web: false
+          frontmatter: true
+
+    - title: Computational Biology
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      print: true
+
+      items:
+
+        - title: Introduction
+          url: /index.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+
+        - title: Ontologies
+          url: /compbio-onto.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: NGS
+          url: /compbio-ngs.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: Regulatory genomics
+          url: /compbio-regulargenomics.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+
+    - title: Projects
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      print: true
+      items:
+        - title: PhenIX
+          url: /software-phenix.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: BOQA
+          url: /software-boqa.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: PhenogramViz
+          url: /software-phenoviz.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: Common Disease Network 
+          url: /software-cdn.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: Exomiser
+          url: /software-exomiser.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: Human Phenotype Ontology
+          url: /software-hpo.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: Ontologizer
+          url: /software-ontologizer.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: Phenomizer
+          url: /software-phenomizer.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+      
+    - title: Publications
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      items:
+        - title: Selected
+          url: /publications_selected.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: All
+          url: /publications_all.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+      
+
+    - title: Team/Contact
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      items:
+        - title: Members
+          url: /team.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+          thirdlevel:
+            - title: Member pages
+              audience: writers, designers
+              platform: all
+              product: all
+              version: all
+              thirdlevelitems: 
+              - title: Prof. Robinson
+                url: /team_robinson.html
+                audience: writers, designers
+                platform: all
+                product: all
+                version: all
+              - title: Sebastian Köhler
+                url: /team_koehler.html
+                audience: writers, designers
+                platform: all
+                product: all
+                version: all
+        - title: Contact
+          url: /team_contact.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+    - title: Open positions 
+      audience: writers, designers
+      platform: all
+      product: all
+      version: all
+      items:
+        - title: Postdocs
+          url: /positions_postdoc.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
+        - title: PhD
+          url: /positions_phd.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
+
