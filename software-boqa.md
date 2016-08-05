@@ -6,13 +6,4 @@ The Bayesian Ontology Query Algorithm (BOQA) integrates the knowledge stored in 
  
 Usage
 ------------
-Please look into the README file in the distribution archive for usage instructions and licensing conditions.
- 
-Download
-------------
-[boqa-dist.tar.gz](http://compbio.charite.de/tl_files/boqa/boqa-dist.tar.gz)
-
-Extended Benchmark
-------------
-The benchmark procedure also includes procedures that we had to omit in the final publication due to space limitations. Next to the sampling approch using the Lin and Jan-Conrath measure, we also implemented a recent measure called MB that was published in the paper Finding Disease Similarity based on Implicit Semantic Similarity by Sachin Mathur and Deendayal Dinakarpandian. As in the publication, we provide [ROC](http://compbio.charite.de/tl_files/boqa/roc-results.html) and [precision/recall](http://compbio.charite.de/tl_files/boqa/pr-results.html) classifier measures.
-
+Please see https://github.com/drseb/boqa

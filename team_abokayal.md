@@ -1,4 +1,0 @@
----
-title: Layal Abo-Kayal
----
-

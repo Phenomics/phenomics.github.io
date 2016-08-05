@@ -1,4 +1,0 @@
----
-title: Leon Kuchenbecker
----
-
