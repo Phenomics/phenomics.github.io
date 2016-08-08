@@ -10,7 +10,7 @@ topnav_title: Phenomics Berlin Home
 homepage_title: Home
 site_title: Phenomics and Machine Learning @ Berlin
 google_analytics: UA-62837903-8
-github_editme_path: phenomicsberlin/phenomicsberlin.github.io/edit/master
+github_editme_path: phenomics/phenomics.github.io/edit/master
 
 # don't use a slash before or after the above path. here's how this url gets written out in page.html: https://github.com/{{site.github_editme_path}}{{page.url | replace: '.html', '.md'}}
 # variables
