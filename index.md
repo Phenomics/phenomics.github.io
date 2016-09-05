@@ -15,6 +15,6 @@ We develop algorithms for phenotype driven analysis of health care information a
 
 We create tools for phenotype analyses that make use of the entire clinical phenotyping spectrum, not only using HPO, but also   model organisms data (we also create the uberpheno) and other ontologies. We work on tools for acquiring phenotype data from unstructured data sources (EHRs, publications). We have and develop machine learning algorithms helping in medical decision making (e.g. disorder prediction or patient matchmaking), e.g. we have created the Phenomizer. We are working on novel machine learning approaches for phenotype-genotype correlation prediction.
 
-We are partners in tool development for the interpretation of genomic variation data such as Exomiser.
+We are partners in software development for the interpretation of genomic variation data such as Exomiser.
 
 
