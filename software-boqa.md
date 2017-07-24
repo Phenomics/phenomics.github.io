@@ -6,4 +6,4 @@ The Bayesian Ontology Query Algorithm (BOQA) integrates the knowledge stored in 
  
 Usage
 ------------
-Please see https://github.com/drseb/boqa
+Please see https://github.com/Phenomics/boqa
