@@ -1,63 +1,42 @@
-<!DOCTYPE html>
-<html>
+---
+---
+
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.9.0 by Michael Rose
+  Copyright 2013-2018 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+-->
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
-
- {% include head.html %}
-
-<script>
-  $(function () {
-      $('[data-toggle="tooltip"]').tooltip()
-  })
-</script>
-{% unless site.print == true %}
-{% if page.video == true %}
-<link href="https://vjs.zencdn.net/4.12/video-js.css" rel="stylesheet">
-<script src="https://vjs.zencdn.net/4.12/video.js"></script>
-{% endif %}
-{% endunless %}
-
-{% unless site.print == true %}
-{% if page.datatable == true %}
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.5/css/jquery.dataTables.css">
-<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.5/js/jquery.dataTables.js"></script>
-<script>
-  $(document).ready(function(){
-
-      $('table.datatable').DataTable( {
-                  paging: false,
-                  stateSave: true
-              }
-      );
-</script>
-{% endif %}
-{% endunless %}
-
+    {% include head.html %}
+    {% include head/custom.html %}
   </head>
 
-<body>
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 
-   {% include topnav.html %}
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
 
+    <div class="initial-content">
+      {{ content }}
+    </div>
 
-    <!-- Page Content -->
-    <div class="container">
-        <div class="col-lg-12">&nbsp;</div>
+    {% if site.search == true %}
+      <div class="search-content">
+        {% include search_form.html %}
+      </div>
+    {% endif %}
 
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
 
-{% include sidebar.html %}
+    {% include scripts.html %}
 
-            <!-- Content Column -->
-            <div class="col-md-9">
-
-                {{content}}
-            </div><!-- /.row -->
-
-    </div>    <!-- /.container -->
-
-</body>
-{% if site.google_analytics %}
-{% include google_analytics.html %}
-{% endif %}
-
+  </body>
 </html>
-
