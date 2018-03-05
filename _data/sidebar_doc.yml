@@ -158,11 +158,17 @@ entries:
           version: all
 
 
-    - title: Positions
-      url: /positions.html
+   - title: Open Positions
       audience: writers, designers
       platform: all
       product: all
       version: all
+      items:
+        - title: Positions
+          url: /positions.html
+          audience: writers, designers
+          platform: all
+          product: all
+          version: all
 
 
