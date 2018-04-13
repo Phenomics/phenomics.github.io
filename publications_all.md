@@ -6,7 +6,7 @@ title: Selected Publications
 
 <ol class="bibliography">
 
-<li><span id="annot">Vasilevsky N, ... , Robinson PN, <b>Köhler S</b>, Haendel MA (2018). "Opposite-of"-information improves similarity calculations in phenotype ontologies <i>Nature Genetics</i>, .</span>   <a href="https://www.ncbi.nlm.nih.gov/pubmed/29632381">Link</a>  </li>
+<li><span id="annot">Vasilevsky N, ... , Robinson PN, <b>Köhler S</b>, Haendel MA (2018). Plain-language medical vocabulary for precision diagnosis <i>Nature Genetics</i>, .</span>   <a href="https://www.ncbi.nlm.nih.gov/pubmed/29632381">Link</a>  </li>
 
 <li><span id="annot"><b>Köhler S</b> (2018). Improved ontology-based similarity calculations using a study-wise annotation model. <i>Database (Oxford)</i>, .</span>   <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5868182/">Link</a>  </li>
 

@@ -152,7 +152,7 @@ entries:
       product: all
       version: all
       items:
-        - title: All
+        - title: Selected 
           url: /publications_all.html
           audience: writers, designers
           platform: all
