@@ -6,11 +6,13 @@ title: Selected Publications
 
 <ol class="bibliography">
 
-<li><span id="annot">Vasilevsky N, ... , Robinson PN, <b>Köhler S</b>, Haendel MA (2018). Plain-language medical vocabulary for precision diagnosis <i>Nature Genetics</i>, .</span>   <a href="https://www.ncbi.nlm.nih.gov/pubmed/29632381">Link</a>  </li>
+<li><span id="annot">Vasilevsky N, ... , Robinson PN, <b>Köhler S</b>, Haendel MA (2018). Plain-language medical vocabulary for precision diagnosis <i>Nature Genetics</i> .</span>   <a href="https://www.ncbi.nlm.nih.gov/pubmed/29632381">Link</a>  </li>
 
-<li><span id="annot"><b>Köhler S</b> (2018). Improved ontology-based similarity calculations using a study-wise annotation model. <i>Database (Oxford)</i>, .</span>   <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5868182/">Link</a>  </li>
+<li><span id="annot"><b>Köhler S</b> (2018). Improved ontology-based similarity calculations using a study-wise annotation model. <i>Database (Oxford)</i> .</span>   <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5868182/">Link</a>  </li>
 
-<li><span id="annot"><b>Köhler S</b> et al. (2017). "Opposite-of"-information improves similarity calculations in phenotype ontologies <i>BioRxiv</i>, .</span>   <a href="https://www.biorxiv.org/content/early/2017/02/16/108977">Link</a>  </li>
+<li><span id="annot"><b>Köhler S</b> et al. (2017). "Opposite-of"-information improves similarity calculations in phenotype ontologies <i>BioRxiv</i> .</span>   <a href="https://www.biorxiv.org/content/early/2017/02/16/108977">Link</a>  </li>
+
+<li><span id="annot"><b>Köhler S</b> et al. (2017). The Human Phenotype Ontology in 2017 <i>Nucleic acids research</i> .</span>   <a href="https://academic.oup.com/nar/article/45/D1/D865/2574174">Link</a>  </li>
 
 
 <li><span id="exomiser_natgenet"> Smedley D, Jacobsen JO, Jäger M, <b>Köhler S</b>, Holtgrewe M, Schubach M, Siragusa E, Zemojtel T, Buske OJ, Washington NL, Bone WP, Haendel MA, Robinson PN. (2015). Next-generation diagnostics and disease-gene discovery with the Exomiser. <i>Nature Protocols</i>, .</span>   <a href="http://www.ncbi.nlm.nih.gov/pubmed/26562621">Link</a>  </li>
@@ -33,7 +35,7 @@ title: Selected Publications
 
 <li><span id="PMID24162188">Robinson, P. N., <b>Köhler, S.</b>, Oellrich, A., Wang, K., Mungall, C. J., Lewis, S. E., Washington, N., Bauer, S., Seelow, D., Krawitz, P., et al. (2014). Improved exome prioritization of disease genes through cross-species phenotype comparison. <i>Genome Res.</i> 24, 340–348.</span>   <a href="http://www.ncbi.nlm.nih.gov/pubmed/24162188">Link</a>  </li>
 
-<li><span id="PMID24217912"><b>Köhler, S.</b>, Doelken, S. C., Mungall, C. J., Bauer, S., Firth, H. V., Bailleul-Forestier, I., Black, G. C., Brown, D. L., Brudno, M., Campbell, J., et al. (2014). The Human Phenotype Ontology project: linking molecular biology and disease through phenotype data. <i>Nucleic Acids Res.</i> 42, D966–974.</span>   <a href="http://www.ncbi.nlm.nih.gov/pubmed/24217912">Link</a>  </li>
+<li><span id="PMID24217912"><b>Köhler, S.</b>, et al. (2014). The Human Phenotype Ontology project: linking molecular biology and disease through phenotype data. <i>Nucleic Acids Res.</i> 42, D966–974.</span>   <a href="http://www.ncbi.nlm.nih.gov/pubmed/24217912">Link</a>  </li>
 
 <li><span id="PMID24358873"><b>Köhler, S.</b>, Doelken, S. C., Ruef, B. J., Bauer, S., Washington, N., Westerfield, M., Gkoutos, G., Schofield, P., Smedley, D., Lewis, S. E., et al. (2013). Construction and accessibility of a cross-species phenotype ontology along with gene annotations for biomedical research. <i>F1000Res</i> 2, 30.</span>   <a href="http://www.ncbi.nlm.nih.gov/pubmed/24358873">Link</a>  </li>
 
