@@ -12,7 +12,7 @@ It would be *cool* if you already know about knowledge representation (ontologie
 It would be *nice* if you knew about R, git, machine learning, and statistics.
 
 
-Be reminded, that it is not a problem if you are not an expert in all of the above fields, but you need to be willing to learn about them.
+Please keep in mind, that it is not a problem if you are not an expert in all of the above fields, but you need to be willing to learn about them.
 
 Please send your CV with 2 references to sebastian.koehler@charite.de.
 
